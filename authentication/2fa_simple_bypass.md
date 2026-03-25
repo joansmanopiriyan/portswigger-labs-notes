@@ -2,7 +2,7 @@
 
 ## Vulnerability Type
 Two-Factor Authentication Bypass
-
+ 
 ## Lab Objective
 Bypass the second authentication step and gain unauthorized access to another user account.
 
