@@ -29,5 +29,66 @@ Practiced multiple SQL injection techniques including:
 - UNION-based data extraction
 - Blind SQL injection using time delays
 
-Location:
+---
 
+### File Path Traversal
+
+Practiced directory traversal exploitation techniques including:
+
+- Basic traversal attacks
+- Absolute path bypass
+- Non-recursive filtering bypass
+- Double URL encoding bypass
+
+---
+
+### Access Control Vulnerabilities
+
+Practiced multiple authorization bypass scenarios including:
+
+- Unprotected admin functionality
+- Role-based privilege escalation
+- IDOR vulnerabilities
+- HTTP method-based bypass
+- Referer header bypass
+- Multi-step workflow access control weaknesses
+
+
+---
+
+## Skills Developed Through These Labs
+
+Through these exercises I practiced:
+
+- identifying injection points
+- parameter manipulation techniques
+- authentication workflow testing
+- authorization bypass analysis
+- database fingerprinting methods
+- input validation bypass techniques
+- structured vulnerability reporting
+
+---
+
+## Tools Used During Practice
+
+- Burp Suite
+- Browser Developer Tools
+- PortSwigger Web Security Academy Labs
+- HTTP request interception and modification techniques
+
+---
+
+## Learning Approach
+
+Each vulnerability report follows a consistent structure:
+
+- Objective
+- Injection point
+- Payload used
+- Exploitation steps
+- Impact
+- Mitigation
+- Key learning outcome
+
+This approach helps simulate real-world vulnerability assessment reporting workflows.
